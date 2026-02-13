@@ -1,8 +1,8 @@
 node_modules
 .env
-log.txt
 .env.enc
-# Hardhat files
+log.txt
+# Hardhat filesgit rm --cached .env.enc
 /cache
 /artifacts
 
